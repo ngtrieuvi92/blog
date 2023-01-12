@@ -1,2 +1,2 @@
-# blog
-vinguyen.blog conversation
+# Hi
+[https://vinguyen.blog](https://vinguyen.blog)
